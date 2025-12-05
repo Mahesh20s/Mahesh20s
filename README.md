@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mahesh20s
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Python and Web Development
+- 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on project 
-- 📫 How to reach me ...sm2451888@gmail.com
+- 📫 How to reach me ...smahesh9923@gmail.com
   
 
 <!---
