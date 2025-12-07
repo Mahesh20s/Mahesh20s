@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahesh20s
+- 👋 Hi, I’m @Mahesh20s 
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on project 
